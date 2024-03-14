@@ -33,5 +33,3 @@ Various visualizations, including the confusion matrix, training/validation loss
 3. Visualize the results and performance metrics.
 4. Modify the script or model architecture as needed for further experimentation.
 
-For more details, refer to the comments in the Python script.
-
