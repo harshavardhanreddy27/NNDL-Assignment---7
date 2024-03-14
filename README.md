@@ -33,3 +33,5 @@ Various visualizations, including the confusion matrix, training/validation loss
 3. Visualize the results and performance metrics.
 4. Modify the script or model architecture as needed for further experimentation.
 
+## Video Link
+https://drive.google.com/file/d/1pKvDbWiDBSMttHmu758UheQDC3QJgRpr/view?usp=share_link
